@@ -8,5 +8,5 @@
 
 
 # Note
-以下のリンクからspam.csvをダウンロードしてください。
+以下のリンクからspam.csvをダウンロードして、パスを書き換えてください。
 (https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
